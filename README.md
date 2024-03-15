@@ -27,11 +27,11 @@
 
 ## 연습문제 (필요한 제출 파일)
 
-- 0-0. Hello world
-- 0-2. (0-3와 포함)
-- 0-4.
-- 0-5.
-- 0-6.
-- 0-7.
-- 0-8.
-- 0-10.
+- 0-0. `hello.cpp` Hello world
+- 0-2. `chp0ex2.cpp` (0-3와 포함)
+- 0-4. `chp0ex4.cpp`
+- 0-5. `chp0ex5.cpp`
+- 0-6. `chp0ex6.cpp`
+- 0-7. `chp0ex7.cpp`
+- 0-8. `chp0ex8.cpp`
+- 0-10. `chp0ex10.cpp`
